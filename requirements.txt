@@ -9,6 +9,5 @@ matplotlib
 numpy
 pandas
 scikit-learn
-sklearn
 threadpoolctl
 Werkzeug
